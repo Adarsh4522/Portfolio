@@ -29,7 +29,7 @@ const PROJECTS = [
     ],
     stack: ['Node.js', 'Express.js', 'Groq Cloud', 'LLaMA 3.3', 'Docker', 'GCP', 'Nginx', 'HTML/CSS/JS'],
     github: 'https://github.com/Adarsh4522/AI_literature_Tutor',
-    live: null,
+    live: 'https://litwise.itsadarsh.site/',
   },
   {
     id: 'smart-water',
@@ -45,8 +45,8 @@ const PROJECTS = [
       'Smart water-saving suggestions based on usage patterns',
     ],
     stack: ['React.js', 'Vite', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Chart.js'],
-    github: 'https://github.com/Adarsh4522',
-    live: null,
+    github: 'https://github.com/Adarsh4522/Aqua_Smart',
+    live: 'https://aqua.itsadarsh.site/',
   },
   {
     id: 'government-subsidy',
