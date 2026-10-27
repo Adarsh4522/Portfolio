@@ -48,6 +48,23 @@ const PROJECTS = [
     github: 'https://github.com/Adarsh4522',
     live: null,
   },
+  {
+    id: 'government-subsidy',
+    icon: '🏛️',
+    title: 'Digital Government Subsidy & Grant Administration System',
+    subtitle: 'Spring Boot · React · MySQL · Secure Workflow',
+    desc: 'A full-stack government subsidy management platform designed to streamline beneficiary applications, rule-based eligibility scoring, multi-tier officer verification, milestone-based grant disbursement, and fund-utilization audits.',
+    highlights: [
+      'Configurable eligibility scoring across income, landholding, category, age, and disability criteria',
+      'Three-tier verification workflow for field, district, and finance officers',
+      'Milestone-based 40%–40%–20% disbursement workflow with simulated treasury transfers',
+      'Fund utilization voucher submission, verification, and audit trail',
+      'JWT role-based access control and automated compliance monitoring',
+    ],
+    stack: ['Java 21', 'Spring Boot', 'Spring Security', 'React 18', 'MySQL 8', 'JWT', 'Spring Data JPA', 'Vite'],
+    github: 'https://github.com/Adarsh4522/Government-Digital-Subsidy-Platform',
+    live: null,
+  },
 ];
 
 const Projects = () => (
