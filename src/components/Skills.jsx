@@ -18,6 +18,7 @@ const CATEGORIES = [
       { name: 'React',      icon: `${DEVICON}/react/react-original.svg`,               t: 'react' },
       { name: 'Node.js',    icon: `${DEVICON}/nodejs/nodejs-original.svg`,             t: 'node' },
       { name: 'Express.js', icon: `${DEVICON}/express/express-original.svg`,           t: 'express' },
+      {name: 'Next.js',     icon: `${DEVICON}/nextjs/nextjs-original.svg`,             t: 'nextjs'},
     ],
   },
   {
@@ -25,6 +26,7 @@ const CATEGORIES = [
     skills: [
       { name: 'MongoDB',    icon: `${DEVICON}/mongodb/mongodb-original.svg`,           t: 'mongo' },
       { name: 'PostgreSQL', icon: `${DEVICON}/postgresql/postgresql-original.svg`,     t: 'pg' },
+      { name: 'MySQL',      icon: `${DEVICON}/mysql/mysql-original.svg`,               t: 'mysql' },
     ],
   },
   {
@@ -34,6 +36,7 @@ const CATEGORIES = [
       { name: 'Git',        icon: `${DEVICON}/git/git-original.svg`,                   t: 'git' },
       { name: 'GitHub',     icon: `${DEVICON}/github/github-original.svg`,             t: 'github' },
       { name: 'GCP',        icon: `${DEVICON}/googlecloud/googlecloud-original.svg`,   t: 'gcp' },
+      {name: 'Azure',       icon: `${DEVICON}/azure/azure-original.svg`,               t: 'azure'},
       { name: 'Nginx',      icon: `${DEVICON}/nginx/nginx-original.svg`,               t: 'nginx' },
     ],
   },
